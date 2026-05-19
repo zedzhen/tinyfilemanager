@@ -1,3 +1,5 @@
+This branch combines changes from other branches. **This branch uses force push.**
+
 # Tiny File Manager
 
 [![Live demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square)](https://tinyfilemanager.github.io/demo/)
